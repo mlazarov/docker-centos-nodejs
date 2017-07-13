@@ -2,7 +2,7 @@
 
 Contents:
  - CentOS 7 (latest to the build time)
- - Node.js v6.9.1
+ - Node.js v6.11.1
  - [yarn](https://github.com/yarnpkg/yarn) package
 
 # Usage
